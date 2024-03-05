@@ -1,0 +1,61 @@
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+img{
+    width: 400px;
+text-align: center;
+align-items: center;
+margin-top: 300px;
+border-radius: 50px;
+height: 300%;
+}
+
+video{
+    width: 500px;
+
+text-align: center;
+
+align-items: center;
+
+
+}
+div{
+    text-align: center;
+}
+
+body{
+    margin: 0;
+}
+.r{
+    position: fixed;
+
+
+
+min-width: 100%;
+min-height: 100%;
+
+top: 25%;
+left: 50%;
+
+transform: translateX(-50%) translateY(-50%);
+
+z-index: -1;
+}
+.cr{
+
+    position:fixed;
+top: 0;
+left: 0;
+min-width: 100%;
+min-height: 100%;
+z-index: -1;
+}
